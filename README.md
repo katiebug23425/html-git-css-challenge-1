@@ -11,6 +11,8 @@ I built this project to create a better website for the marketing company and to
 ## Usage
 
 
+https://katiebug23425.github.io/html-git-css-challenge-1/
+
 
 ## Credits
 
