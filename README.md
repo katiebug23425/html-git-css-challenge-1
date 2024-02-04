@@ -10,6 +10,9 @@ I built this project to create a better website for the marketing company and to
 
 ## Usage
 
+Click on the links at the top of the page to learn more as shown in the following screenshot:
+
+
 
 https://katiebug23425.github.io/html-git-css-challenge-1/
 
